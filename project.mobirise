@@ -1,0 +1,2224 @@
+{
+  "settings": {
+    "name": "SSG",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#41a85f",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#faaf40",
+        "titleFont": "Open Sans",
+        "subtitleFont": "Lora",
+        "textFont": "Open Sans",
+        "isRoundedButtons": true,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": true,
+        "isRtl": false
+      }
+    },
+    "versionFirst": "3.12.1",
+    "uniqCompNum": 37,
+    "versionPublish": "3.12.1"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "18px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "1.05rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.137rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#41a85f!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-1",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": "1.05",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-1-128x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">СмолСтрой групп &nbsp; +7 (4812) 54-23-44</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-f\" aria-expanded=\"false\">ОБЪЕКТЫ 2010-2017</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"#top\" aria-expanded=\"false\">ВИДЫ РАБОТ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-8\">АЛМАЗНОЕ БУРЕНИЕ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-8\">БРУСЧАТКА, ПЛИТКА</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-8\">ВЕНТИЛЯЦИЯ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-8\">ВЫСОТНЫЕ РАБОТЫ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-8\">КВАРТИРЫ ПОД КЛЮЧ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-8\">КРОВЛЯ, ПЕРЕКРЫТИЯ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-8\">МЕТАЛЛОКОНСТРУКЦИИ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-8\">ПАНДУСЫ, ПОРУЧНИ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-8\">ПЕРЕГОРОДКИ, СТЕНЫ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-8\">ПЛИТКА, ЛАМИНАТ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-8\">САНТЕХНИКА</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-8\">СМЕТЫ, РАСЧЕТЫ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-8\">ФУНДАМЕНТЫ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-8\">ЭЛЕКТРОМОНТАЖ</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#contacts2-10\">КОНТАКТЫ</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "60px"
+            }
+          },
+          "_anchor": "header1-0",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1334.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.5",
+            "overlayColor": "#000000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "СТРОИМ С УМОМ<br><br>",
+          "text": "<span style=\"font-style: normal;\"><b>Если Вы ищете надежного партнера <br>для выполнения работы с гарантией <br>результата - вы нашли того, кого искали<br><br>Огромный портфель выполненных работ <br>у более чем 100 частных и госзаказчиков<br><br>Безупречная репутация и персонал <br>с десятиленим опытом работы<br></b></span><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#header3-f\" data-toolbar=\"-mbrBtnMove\"><strong>НАШИ ЗАКАЗЧИКИ</strong></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#slider-x\" data-toolbar=\"-mbrBtnMove\"><strong>ГАРАНТИИ И ОБЯЗАТЕЛЬСТВА</strong></a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-5",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": 1,
+            "bgColor": "#ffffff",
+            "showMeta": true
+          },
+          "title": "УСЛУГИ ПО СТРОИТЕЛЬСТВУ И РЕМОНТУ",
+          "meta": "Работаем с 2006 года! Проверенная техника и мастера. Большой опыт решения нестандартных задач."
+        },
+        {
+          "_styles": {
+            ".card-subtitle": {
+              "color": "#bcbcbc"
+            },
+            ".iconbox": {
+              "background-color": "#41a85f",
+              "border-color": "#41a85f"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features4",
+          "_anchor": "features4-6",
+          "_params": {
+            "iconsBgColor": "#41a85f",
+            "paddingTop": 2,
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": 3,
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "extension",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "color": "black",
+              "newWindow": false
+            }
+          },
+          "title1": "Здания и сооружения",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Многоэтажные дома, торговые центры, коттеджи, таунхаусы <br>по готовым или индивудуальным проектам и чертежам. <br>Сборка ангаров любой сложности. Монтаж складских помещений, торговых павильонов. Сварные и сборные металлоконструкции.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "timer",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "color": "black",
+              "newWindow": false
+            }
+          },
+          "title2": "Спортивные площадки",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "Строительство новых и реконструкция действующих спортивных площадок и стадионов. Разработка проекта с учетом действующих норм законодательства.<br>Проектирование и монтаж готовых спортивных снарядов и комплексов.<br>Оборудование для детских игровых площадок. Малые архитектурные формы.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "link",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "color": "black",
+              "newWindow": false
+            }
+          },
+          "title3": "Объекты доступной среды",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Строительство пандусов для колясок. Перила, ограждения площадок и коридоров. Монтаж откидных пандусов. Пристенные поручни в санузлы для маломобильных групп населения. Пандусы для инвалидных колясок.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black",
+              "family": "et-line"
+            }
+          },
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "briefcase",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black",
+              "family": "et-line"
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black",
+              "family": "et-line"
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".card-subtitle": {
+              "color": "#bcbcbc"
+            },
+            ".iconbox": {
+              "background-color": "#41a85f",
+              "border-color": "#41a85f"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features4",
+          "_anchor": "features4-7",
+          "_params": {
+            "iconsBgColor": "#41a85f",
+            "paddingTop": "1",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": 3,
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "key",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "color": "black",
+              "newWindow": false
+            }
+          },
+          "title1": "Текущий и капитальный ремонт",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Любые виды ремонтных работ, начиная от штукатурки стен и заканчивая заменой балок перекрытия в многоэтажных сооружениях. Кровельные, фундаментные, сантехничекие и электромонтажные работы. Инженерные сети и коммуникации.<br>Алмазное бурение бетонных и кирпичных перекрытий.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "edit",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "color": "black",
+              "newWindow": false
+            }
+          },
+          "title2": "Сопроводительные работы",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "Разработка проекта на строительство, реконструкцию и капитальный ремонт с учетом действующих норм законодательства. Прохождение государственной и негосударственной экспертизы. Локальные и объектные сметные расчеты.<br>Сопровождение организаций для участия в госзакупках по ФЗ-44, ФЗ-223.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "photo",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "color": "black",
+              "newWindow": false
+            }
+          },
+          "title3": "Подготовка участка",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Подведение и монтаж инженерных сетей. Геологическая разведка. <br>Планирование и геодезия участков строительства. <br>Монтаж ленточного, винтового, монолитного или свайного фундамента.&nbsp;<br>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black",
+              "family": "et-line"
+            }
+          },
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "briefcase",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black",
+              "family": "et-line"
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black",
+              "family": "et-line"
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".lead H4": {
+              "color": "#ffffff",
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            ".btn": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "15px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-3",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/dji-2000x1498.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.4",
+            "overlayColor": "#000000",
+            "showTitle": true,
+            "showText": true,
+            "showButton": true
+          },
+          "title": "ОСТАВЬТЕ ЗАЯВКУ",
+          "text": "<h4><br></h4><h4>Или укажите свой номер и мы перезвоним</h4>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"index.html#contacts3-c\" data-toolbar=\"-mbrBtnMove\"><strong>ОТПРАВИТЬ БЕСПЛАТНОЕ СООБЩЕНИЕ</strong></a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-8",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "3",
+            "bgColor": "#ffffff",
+            "showMeta": true
+          },
+          "title": "ВИДЫ ВЫПОЛНЯЕМЫХ РАБОТ И УСЛУГ",
+          "meta": "<b>Умеем не только ломать и строить. </b><br><span style=\"font-style: normal;\">Подготовка документации, электронные аукционы, сметные работы, автоматизация процессов.<br>Составление дефектных ведомостей, рабочих чертежей, проектов на реконструкцию объектов.</span><br><span style=\"font-style: normal;\">Создание и ремонт объектов доступной среды для маломобильных групп населения.</span>"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery2",
+          "_styles": {
+            ".mbr-gallery-item > div > span B": {
+              "text-align": "right"
+            },
+            ".mbr-gallery-item > div > span DIV": {
+              "text-align": "left"
+            },
+            ".mbr-gallery-item > div > span": {
+              "text-align": "left"
+            }
+          },
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/vr-smeta-2000x1334-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/vr-smeta-2000x1334.jpg",
+                "caption": "<b>СМЕТЫ РАСЧЕТЫ&nbsp;</b>Проектирование",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/vr-fundament-2000x1334-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/vr-fundament-2000x1334.jpg",
+                "caption": "<b>ФУНДАМЕНТЫ</b> ленточные и монолитные",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/vr-krovli-3-2000x1334-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/vr-krovli-3-2000x1334.jpg",
+                "caption": "<b>КРОВЛЯ</b> мягкая, мембранная и твердая",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/vr-electro-2000x1334-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/vr-electro-2000x1334.jpg",
+                "caption": "<b>ЭЛЕКТРОМОНТАЖНЫЕ РАБОТЫ</b>",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/vr-santeh-2000x1334-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/vr-santeh-2000x1334.jpg",
+                "caption": "<b>САНТЕХНИКА </b>системы водоочистки",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/vr-alp-2000x1334-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/vr-alp-2000x1334.jpg",
+                "caption": "<b>ВЫСОТНЫЕ РАБОТЫ </b>промальпинизм",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/vr-pandus-2000x1334-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/vr-pandus-2000x1334.jpg",
+                "caption": "<b>ПАНДУСЫ</b> откидные и монолитные",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/vr-almaz-1-2000x1334-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/vr-almaz-1-2000x1334.jpg",
+                "caption": "<b>АЛМАЗНОЕ БУРЕНИЕ </b>кирпича и армированного бетона",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/vr-truba-2000x1334-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/vr-truba-2000x1334.jpg",
+                "caption": "<b>ТРУБОПРОВОДЫ </b>сети водоснабжения",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/vr-stenka-2000x1334-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/vr-stenka-2000x1334.jpg",
+                "caption": "<b>ПЕРЕГОРОДКИ </b>из гипсокартона и пеноблоков",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/vr-plitka-2000x1334-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/vr-plitka-2000x1334.jpg",
+                "caption": "<b>УКЛАДКА ПЛИТКИ</b> на стены, потолки, полы",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/vr-vent-2000x1334-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/vr-vent-2000x1334.jpg",
+                "caption": "<b>ВЕНТИЛЯЦИЯ</b>&nbsp;проточная, принудительная",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/vr-kvartira-2000x1334-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/vr-kvartira-2000x1334.jpg",
+                "caption": "<b>\u001bРЕМОНТ КВАРТИРЫ&nbsp;</b>под ключ, мелкий ремонт",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/vr-dem-2000x1334-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/vr-dem-2000x1334.jpg",
+                "caption": "<b>ДЕМОНТАЖ</b> перегородок, проёмов, плитки",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/vr-brus-2000x1334-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/vr-brus-2000x1334.jpg",
+                "caption": "<b>БРУСЧАТКА&nbsp;</b>укладка тротуарной плитки",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/vr-angar-2000x1334-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/vr-angar-2000x1334.jpg",
+                "caption": "<b>АНГАРЫ</b>&nbsp;<b>СКЛАДЫ</b> монтаж металлоконструкций",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/vr-zatbetmas-2000x1334-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/vr-zatbetmas-2000x1334.jpg",
+                "caption": "<b>ЗАТИРКА БЕТОНА</b>&nbsp;машиной<br>",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/vr-uplbervib-2000x1334-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/vr-uplbervib-2000x1334.jpg",
+                "caption": "<b>УПЛОТНЕНИЕ БЕТОНА</b> &nbsp;вибратором<br>",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/vr-uplbetvib-2000x1334-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/vr-uplbetvib-2000x1334.jpg",
+                "caption": "<b>УПЛОТНЕНИЕ БЕТОНА</b> &nbsp;виброрейкой<br>",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/vr-uplgrutra-2000x1334-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/vr-uplgrutra-2000x1334.jpg",
+                "caption": "<b>УПЛОТНЕНИЕ ГРУНТА</b>&nbsp;трамбовочной машиной<br>",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/vr-polshlpov-2000x1334-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/vr-polshlpov-2000x1334.jpg",
+                "caption": "<b>ПОЛИРОВКА И ШЛИФОВКА</b>&nbsp;бетонных поверхностей<br>",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/vr-pesobrmet-2000x1334-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/vr-pesobrmet-2000x1334.jpg",
+                "caption": "<b>ПЕСКОСТРУЙНАЯ ОБРАБОТКА</b>&nbsp;металлов и бетона<br>",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/vr-uplvib-2000x1334-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/vr-uplvib-2000x1334.jpg",
+                "caption": "<b>УПЛОТНЕНИЕ ПОВЕРХНОСТЕЙ И ГРУНТА&nbsp;</b>виброплитой<br>",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/vr-okrbezvoz-2000x1334-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/vr-okrbezvoz-2000x1334.jpg",
+                "caption": "<b>ОКРАСКА и ШТУКАТУРКА</b> методом безвоздушного распыления<br>",
+                "active": true
+              }
+            ],
+            "spacing": "0",
+            "showText": true,
+            "filter": false,
+            "bgColor": "fff",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": false
+          },
+          "_anchor": "gallery2-9",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".lead H4": {
+              "color": "#ffffff",
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            ".btn": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "15px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-t",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1333.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.4",
+            "overlayColor": "#000000",
+            "showTitle": true,
+            "showText": true,
+            "showButton": true
+          },
+          "title": "ОСТАВЬТЕ ЗАЯВКУ",
+          "text": "<h4><br></h4><h4>Или укажите свой номер и мы перезвоним</h4>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#contacts3-c\" data-toolbar=\"-mbrBtnMove\"><strong>ОТПРАВИТЬ БЕСПЛАТНОЕ СООБЩЕНИЕ</strong></a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-f",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "3",
+            "bgColor": "#ffffff",
+            "showMeta": true
+          },
+          "title": "НАШИ ЗАКАЗЧИКИ И ПАРТНЕРЫ",
+          "meta": "Более 100 организаций воспользовались нашими услугами. <br>Каждый третий Заказчик обращается к нам опять!"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_styles": {
+            "H4": {
+              "font-size": "18px"
+            }
+          },
+          "_anchor": "features3-y",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "6",
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": false
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/600x433.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "Смоленский учебно-тренировочный центр",
+          "subtitle1": "Акционерное общество<br>АтомТехЭнерго",
+          "caption1": "Устройство кровельного мембранного покрытия гланого корпуса тренировочного центра<br><br>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/600x43396.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "Центр снабжения строительными материалами",
+          "subtitle2": "Общество с ограниченной ответственностью",
+          "caption2": "Склад промышленного назначения. Земляные работы, фундамент, монтаж металлоконструкций",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/600x43397.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "<span style=\"color: inherit; line-height: 1.2825;\">Вязьма-Брусит</span><br><br>",
+          "subtitle3": "Общество с ограниченной ответственностью",
+          "caption3": "Устройство подъездных ЖД путей складов 2, 3, 4. Дренаж площадки складов",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/600x43398.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "Строительство административного здания",
+          "subtitle4": "Гаражно-строительный&nbsp;<div>кооператив \"Связист\"</div>",
+          "caption4": "Устройство фундамента и подвальных помещений. Кладка стен, устройство кровли. Монтаж коммуникаций",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/600x43399.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title5": "Станция технического обслуживания",
+          "subtitle5": "&nbsp;Частное лицо<br><br>",
+          "caption5": "Разработка грунта, рытье траншей.<br>Устройство ленточного фундамента",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/600x433100.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title6": "Строительство под ключ офисного здания",
+          "subtitle6": "Индивидуальный<div>предприниматель</div>",
+          "caption6": "Подготовка строительного участка. Фундаментные работ. Строительство здания. Электро- водоснабжение",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_styles": {
+            "H4": {
+              "font-size": "18px"
+            }
+          },
+          "_anchor": "features3-e",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "6",
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": false
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/hospital-600x433.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "Клиническая больница №1 <br>г. Смоленск",
+          "subtitle1": "Областное бюджетное учреждение здравоохранения",
+          "caption1": "Работы по замене сантехнического оборудования 6-го отделения детского инфекционного корпуса<br><br>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/vishenki-600x433.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "Геронтологический центр \"Вишенки\"",
+          "subtitle2": "Государственное бюджетное учреждение",
+          "caption2": "Аварийный ремонт ввода горячего водоснабжения, системы водоснабжения жилых корпусов",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/600x442.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "Всходский дом-интернат для престарелых",
+          "subtitle3": "Государственное бюджетное учреждение",
+          "caption3": "Текущий ремонт помещений и коридоров 1 этажа жилого корпуса.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/600x450.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "Вышегорская средняя школа<br>Сафоновский район",
+          "subtitle4": "Казенное общеобразовательное учреждение",
+          "caption4": "Устройство основания и покрытия баскетбольной площадки,&nbsp;установка бордюрного камня",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/600x450101.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title5": "Вяземский дом-интернат для престарелых и инвалидов",
+          "subtitle5": "&nbsp;Государственное автономное учреждение",
+          "caption5": "Текущий ремонт 1 и 2 этажей,&nbsp;ремонт водоснабжения,&nbsp;ремонт электроснабжения ",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/sadik-600x433.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title6": "Детский сад № 1 (комб. вида) <br>г. Вязьма",
+          "subtitle6": "Бюджетное дошкольное образовательное учреждени<b>е</b>",
+          "caption6": "Капитальный ремонт музыкального зала,&nbsp;ремонт групповой № 4 на 1 этаже",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_styles": {
+            "H4": {
+              "font-size": "18px"
+            }
+          },
+          "_anchor": "features3-g",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "6",
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": false
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/600x450102.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "Дворец культуры \"Московский\"<br>г. Вязьма",
+          "subtitle1": "Муниципальное бюджетное учреждение культуры",
+          "caption1": "Восстановление работоспособного состояния стен и монтаж оборудования спортивного зала<br><br>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/10-cr-600x450.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "Средняя школа № 10<br>г. Вязьма",
+          "subtitle2": "Муниципальное бюджетное общеобразовательное учреждение",
+          "caption2": "Ремонт внутренних электрических сетей в здании школы",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/3-600x449.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "Средняя школа № 3<div>г. Вязьма</div>",
+          "subtitle3": "Муниципальное бюджетное общеобразовательное учреждение",
+          "caption3": "Ремонт кровли здания школы",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/cr-600x457.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "Реабилитационный центр для несовершеннолетних \"Гармония\"",
+          "subtitle4": "Областное государственное бюджетное учреждение",
+          "caption4": "Капитальный ремонт теплотрассы",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/cr-600x466.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title5": "Областная клиническая психиатрическая больница",
+          "subtitle5": "&nbsp;Областное государственное бюджетное учреждение здравоохранения",
+          "caption5": "Текущий ремонт помещений буфетов отделений № 5, 6 ",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/cr-600x461.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title6": "Социально-оздоровительный центр \"Голоевка\"",
+          "subtitle6": "Областное государственное бюджетное учреждение",
+          "caption6": "Капитальный ремонт музыкального зала,&nbsp;ремонт групповой № 4 на 1 этаже",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_styles": {
+            "H4": {
+              "font-size": "18px"
+            }
+          },
+          "_anchor": "features3-u",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "6",
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": false
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/600x442103.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "Голынковский дом-интернат для престарелых и инвалидов",
+          "subtitle1": "Областное государственное бюджетное учреждение",
+          "caption1": "Ремонт актового зала<br><br>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/cr-600x465.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "Городищенский дом-интернат для престарелых и инвалидов",
+          "subtitle2": "Областное государственное бюджетное учреждение",
+          "caption2": "Ремонт помещений здания",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/2-600x450.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "Средняя школа № 2<br> г. Демидов",
+          "subtitle3": "Муниципальное бюджетное общеобразовательное учреждение",
+          "caption3": "Текущий ремонт спортивного зала",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/cr-600x437.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "Департамент Смоленской области по социальному развитию",
+          "subtitle4": "Орган исполнительной власти",
+          "caption4": "Устройство санузла для маломобильных групп населения",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/600x444.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title5": "Дорогобужский комплексный центр обслуживания населения",
+          "subtitle5": "&nbsp;\u001bОбластное государственное бюджетное учреждение",
+          "caption5": "Ремонт пищеблока, овощехранилища, холла, буфета, помещений",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/cr-600x473.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title6": "Дрюцкий психоневрологический интернат",
+          "subtitle6": "Областноегосударственное автономное учреждение",
+          "caption6": "Замена окон, дверей. Ремонт жилого корпуса и изолятора.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_styles": {
+            "H4": {
+              "font-size": "18px"
+            }
+          },
+          "_anchor": "features3-v",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "6",
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": false
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/cr-600x470.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "Духовщинская коррекционная школа-интернат&nbsp;",
+          "subtitle1": "Государственное бюджетное образовательное учреждение",
+          "caption1": "Ремонт наружных стен в здании, установка пандусов и поручней<br><br>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/cr-600x461104.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "Ершичская средняя школа",
+          "subtitle2": "Муниципальное бюджетное общеобразовательное учреждение",
+          "caption2": "Создание условий для инклюзивного образования детей инвалидов",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/cr-600x470105.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "Ершичский центр социального обслуживания населения",
+          "subtitle3": "Областное государственное бюджетное учреждение",
+          "caption3": "Ремонт помещений центра. Составление тех.документации",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/cr-600x471.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "Смоленский техникум железнодорожного транспорта",
+          "subtitle4": "Бюджетное профессиональное образовательное учреждение",
+          "caption4": "Оборудование санитарно-гигиенических помещений",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/600x442106.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title5": "Жуковский психоневрологический интернат",
+          "subtitle5": "&nbsp;\u001bОбластное государственное автономное учреждение",
+          "caption5": "Ремонт пищеблока и системы канализации 1 корпуса",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/600x450107.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title6": "Отдел социальный защиты населения",
+          "subtitle6": "Областное государственное бюджетное учреждение",
+          "caption6": "Электромонтажные работы административного здания",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_styles": {
+            "H2": {
+              "text-align": "center",
+              "font-size": "60px"
+            },
+            "P": {
+              "text-align": "center"
+            },
+            "B": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            }
+          },
+          "_params": {
+            "autoplay": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "timeout": "10",
+            "slides": [
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/mbr-4-2000x1333.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "ГАРАНТИИ<br><br>",
+                "showText": true,
+                "text": "<span style=\"font-style: normal;\"><b>Все услуги по строительству выполняются в соответствии с Государственными стандартами и Строительными нормами и правилами</b></span><br><span style=\"font-style: normal;\"><b>Это исключает риски на любом этапе</b></span><br><span style=\"font-style: normal;\"><b><br></b></span><span style=\"font-style: normal;\"><b>Привлечение строительного надзора<br></b></span><br><span style=\"font-style: normal;\"><b>Обязательная гарантия на выполненные работы!</b></span>",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"http://www.snip-info.ru/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ГОСТЫ И СНИПЫ</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"http://docs.cntd.ru/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">НТД В СТРОИТЕЛЬСТВЕ</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/2500-2000x1680.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "УДОБСТВО<br><br>",
+                "showText": true,
+                "text": "<span style=\"font-style: normal;\"><b>Многолетний опыт работы с крупными строительными базами позволяет нам работать с любым ассортиментом современных надежных материалов и инструментов со <u>скидкой до 20%</u> и отсрочкой платежа</b></span><br><span style=\"font-style: normal;\"><b><br>Быстрое закрытие промежуточных этапов выполнения работ позволяет оперативнее взаимодействовать и ускоряет общий темп производства<br><br>Окажем помощь на любом этапе строительства!</b></span>",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/mbr-2-2000x1333.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.3",
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "ОПТИМАЛЬНЫЕ ЦЕНЫ<br><br>",
+                "showText": true,
+                "text": "<span style=\"font-style: normal;\"><b>Все цены полностью соответствуют качеству<br><br>Невозможно сделать что-то \"подешевле\" не идя на заведомый обман и махинаций с материалами<br><br>Мы всегда готовы найти разумный компромисс <br>и можем предложить как <u>премиум-класс</u>, <br>так и недорогие бюджетные&nbsp;решения <br>с использованием качественных материалов</b></span>",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"#bottom\" data-toolbar=\"-mbrBtnMove\">ПРАЙС НА УСЛУГИ</a> "
+              }
+            ],
+            "fullScreen": true,
+            "bgColor": "#fff",
+            "showBullets": true
+          },
+          "_anchor": "slider-x",
+          "articleLayout": false
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "contacts2-10",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C",
+            "googleMap": {
+              "address": "54.765713, 32.012969",
+              "placeId": "ChIJBduhtRhYzkYRHzcv3ozTvW0",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>ООО \"СмолСтрой групп\"&nbsp;</strong><br>ИНН 6732056436&nbsp;<br>ОГРН 1136733004550<br><span style=\"font-size: 0.875rem; line-height: 1.5;\">214030 Смоленск,&nbsp;ГСК \"Связист\"</span><br><span style=\"color: rgb(124, 124, 124); font-size: 1rem; font-weight: 700; letter-spacing: -1px; line-height: 1.3;\"><br></span><span style=\"color: rgb(124, 124, 124); font-size: 1rem; font-weight: 700; letter-spacing: -1px; line-height: 1.3;\">Контакты</span><br>+7 (920) 66 32 0 32<br>+7 (920) 30 20 111<br>+7 (4812) 54-23-44 офис<br>+7 (4812) 330-210 факс<br>smolstroy2016@gmail.com<br>89206650409@mail.ru",
+          "text2": ""
+        }
+      ]
+    },
+    "page1.html": {
+      "settings": {
+        "title": "Site Builder Title",
+        "meta_descr": "Site Builder Description"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "18px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "1.05rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.137rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#41a85f!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-j",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": "1.05",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-1-128x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">СмолСтрой групп &nbsp; +7 (4812) 54-23-44</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-f\" aria-expanded=\"false\">ОБЪЕКТЫ 2010-2017</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"#top\" aria-expanded=\"false\">ВИДЫ РАБОТ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-8\">АЛМАЗНОЕ БУРЕНИЕ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-8\">БРУСЧАТКА, ПЛИТКА</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-8\">ВЕНТИЛЯЦИЯ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-8\">ВЫСОТНЫЕ РАБОТЫ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-8\">КВАРТИРЫ ПОД КЛЮЧ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-8\">КРОВЛЯ, ПЕРЕКРЫТИЯ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-8\">МЕТАЛЛОКОНСТРУКЦИИ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-8\">ПАНДУСЫ, ПОРУЧНИ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-8\">ПЕРЕГОРОДКИ, СТЕНЫ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-8\">ПЛИТКА, ЛАМИНАТ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-8\">САНТЕХНИКА</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-8\">СМЕТЫ, РАСЧЕТЫ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-8\">ФУНДАМЕНТЫ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-8\">ЭЛЕКТРОМОНТАЖ</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#contacts2-10\">КОНТАКТЫ</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-l",
+          "_params": {
+            "imageSize": "50",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/krovelnye-raboty-2000x1500.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.4",
+            "overlayColor": "#000",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/mbr-1400x929.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "КРОВЕЛЬНЫЕ РАБОТЫ",
+          "text": "<b>Один из наиболее ответственных этапов в процессе возведения дома – обустройство крыши. От качества монтажа зависит надежность защиты сооружения от неблагоприятных атмосферных явлений и то, насколько удобно в нем будет жить людям. Именно поэтому кровельные работы при строительстве каждого дома должны быть выполнены грамотно и профессионально.</b><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "text-align": "left",
+              "font-size": "36px"
+            }
+          },
+          "_anchor": "msg-box5-m",
+          "_params": {
+            "imageSize": "50",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/download-1400x868.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Монтаж поддерживающих конструкций",
+          "text": "Сюда входит установка стропильной системы, балок и других деталей, которые станут основой для будущей крыши.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "font-size": "36px"
+            }
+          },
+          "_anchor": "msg-box5-n",
+          "_params": {
+            "imageSize": "50",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Обустройство изоляционного слоя",
+          "text": "Это многослойная система, включающая в себя паро- и гидроизоляцию, утеплитель. Количество слоев варьируется в зависимости от района постройки, используемого материала и требований проекта.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "text-align": "left",
+              "font-size": "36px"
+            }
+          },
+          "_anchor": "msg-box5-p",
+          "_params": {
+            "imageSize": "50",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/download-1400x843.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Укладка кровельного покрытия",
+          "text": "Представляет собой монтаж внешнего декоративного слоя, призванного защищать изоляционную систему от неблагоприятных погодных воздействий и, одновременно, придающего зданию законченный внешний вид.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-q",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgColor": "#000000",
+            "showMeta": true
+          },
+          "title": "КАКИЕ ВИДЫ КРЫШ БЫВАЮТ?",
+          "meta": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#2e2e2e"
+            }
+          },
+          "_anchor": "features1-r",
+          "_params": {
+            "columnsColor": "#2e2e2e",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": 4,
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/1-600x344.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "Односкатные",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Описание конструкции кровли.&nbsp;Описание конструкции кровли.Описание конструкции кровли.Описание конструкции кровли.Описание конструкции кровли.Описание конструкции кровли.Описание конструкции кровли.      ",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/2-600x350.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "Двухскатные",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "Описание конструкции кровли. Описание конструкции кровли.Описание конструкции кровли.Описание конструкции кровли.Описание конструкции кровли.Описание конструкции кровли.Описание конструкции кровли.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/4-600x278.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "Четырехскатные",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Описание конструкции кровли. Описание конструкции кровли.Описание конструкции кровли.Описание конструкции кровли.Описание конструкции кровли.Описание конструкции кровли.Описание конструкции кровли.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/5-600x368.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "Многоскатные",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Описание конструкции кровли. Описание конструкции кровли.Описание конструкции кровли.Описание конструкции кровли.Описание конструкции кровли.Описание конструкции кровли.Описание конструкции кровли.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-o",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/desert2.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "showTitle": true,
+            "showCaption": true
+          },
+          "title": "БУДЬТЕ ОСТОРОЖНЫ!",
+          "caption": "<p>Работы по обустройству крыши сложны и ответственны. Даже если кому-то кажется, что выполнить кровельные работы своими руками – это достаточно легко, то, скорее всего, этот человек ошибается. Даже самые простые операции, проводимые на высоте, серьезно осложняются и требуют определенной квалификации и опыта. Тем, кто не знаком с обустройством кровельного пирога, лучше всего доверить все работы профессионалам, которые быстро и грамотно выполнят монтаж. Крыша, устроенная по всем правилам, будет долгие годы радовать своей прочностью, надежностью и красотой.</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_styles": {
+            "LI": {
+              "color": "#ffffff"
+            },
+            "STRONG": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "contacts3-k",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logo-265x265.png",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ<br>\"<b>СМОЛСТРОЙ ГРУПП</b>\" / ОГРН&nbsp;1136733004550",
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "phone",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text2": "+7 (929) 08 123 44",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "map-pin",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text3": "РФ, СМОЛЕНСК",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text4": "<p><a href=\"mailto:support@mobirise.com\">89206650409@</a>mail.ru</p><p><a href=\"mailto:support@mobirise.com\"></a></p>",
+          "title1": "",
+          "text5": "<br><br><br><br>",
+          "text6": "<p><strong>Контакты</strong><br><br>Email: sml2017@bk.ru<br>Тел.: &nbsp;+7 (4812) 54 23 44<br>Факс: +7 (4812) 330 210<br><br><br><br></p>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "dreamkin.dreamkin@gmail.com",
+            "alerts": {
+              "success": "Сообщение успешно отправлено!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Ваше имя"
+              },
+              "email": {
+                "title": "Email",
+                "visible": false,
+                "customTitle": "Ваш Email адрес"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Ваш номер телефона*"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Опишите объем и вид необходимой услуги"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><strong>\u001bОТПРАВИТЬ СООБЩЕНИЕ</strong><br></a><div style=\"text-align: left;\"><a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\" style=\"font-style: normal;\">\u001b\u001b\u001b\u001b\u001b\u001b\u001b</a></div>"
+        }
+      ]
+    }
+  }
+}
